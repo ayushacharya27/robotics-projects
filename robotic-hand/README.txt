@@ -2,7 +2,7 @@ This Project was our first project as robotics beginner , we aimed to mimic a ro
 This was done in our first Semester in College in the event called "INTRODUCTION TO ENGINEERING".
 
 This is merely a mechanical project where most of our time was gone designing the hand from cardboard and pasting it.
-The details and objectives of this project is given below ,and more u can refer the objective documenti have provided.
+The details and objectives of this project is given below ,and more u can refer the objective document i have provided.
 
 OBJECTIVE:
 
