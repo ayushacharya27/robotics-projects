@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1, U4",2," Arduino Uno R3"
+"U2, U3",2,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"P1",1,"5 , 10  Power Supply"
+"KEYPAD1",1," Keypad 4x4"
+"SERVO1, SERVO2, SERVO3, SERVO4, SERVO5, SERVO6",6,"Positional Micro Servo"
+"PINGENTRY, PINGP1, PINGP11, PINGEXIT, PINGP2, PINGP12",6," Ultrasonic Distance Sensor"
+"P2, P3, P4",3,"5 , 5  Power Supply"
+"D1, D2",2,"Red LED"
+"R2",1,"10 kΩ Resistor"
+"L1",1," Light bulb"
+"R1",1," Photoresistor"
